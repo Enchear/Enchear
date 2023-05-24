@@ -5,7 +5,8 @@
 
 Here are some ideas to get you started:
 
-Hello everyone, my name is raniery miguel I am a student at the Federal Institute of Tocantins (IFTO) campus Palmas, I take a course in Internet Systems and I hope to be able to add to my knowledge.
+<p>Hello everyone, my name is raniery miguel I am a student at the Federal Institute of Tocantins (IFTO) campus Palmas, I take a course in Internet Systems and I hope to be able to add to my knowledge.</p>
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
